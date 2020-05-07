@@ -1,6 +1,6 @@
 ---
 title: "About"
-layout: splash
+layout: single
 permalink: /about/
 header:
 	overlay_image: "/images/screenshot.png"
