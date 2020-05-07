@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: "/images/unsplash-image-1.jpg"
 intro: 
-  - excerpt: 'I'm a PhD student at Technical University of Denmark who excels at machine learning, especially deep learning.'
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus*. Centered with `type="center"`'
 feature_row:
   - image_path: /images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
@@ -32,6 +32,8 @@ feature_row:
 
 
 I'm a PhD student at Technical University of Denmark who excels at machine learning, especially deep learning.
+
+'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 
 
 
