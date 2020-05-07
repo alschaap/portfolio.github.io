@@ -6,8 +6,8 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: "/images/unsplash-image-1.jpg"
-author_profile: true
-
+intro: 
+  - excerpt: 'I'm a PhD student at Technical University of Denmark who excels at machine learning, especially deep learning. Centered with `type="center"`'
 feature_row:
   - image_path: /images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
@@ -30,6 +30,6 @@ feature_row:
 
 {% include feature_row %}
 
-I'm a PhD student at Technical University of Denmark who excels at machine learning, especially deep learning.
+
 
 
