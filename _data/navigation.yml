@@ -10,6 +10,8 @@ main:
     url: /sitemap/
 #  - title: "Extra Menu Item 1"
 #    url: /
+  - title: "Blogposts"
+    url: /splash-page/
   - title: "Extra Menu Item 2"
     url: /
   - title: "Extra Menu Item Long Title"

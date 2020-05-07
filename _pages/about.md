@@ -1,9 +1,9 @@
 ---
 title: "About"
+layout: posts
 permalink: /about/
 #header:
 #	image: "/images/screenshot.png"
-layout: posts
 author_profile: true
 ---
 
