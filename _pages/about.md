@@ -7,9 +7,6 @@ header:
   overlay_filter: "0.5"
   overlay_image: "/images/unsplash-image-1.jpg"
 author_profile: true
----
-
-I'm a PhD student at Technical University of Denmark who excels at machine learning, especially deep learning.
 
 feature_row:
   - image_path: /images/unsplash-gallery-image-1-th.jpg
@@ -27,3 +24,8 @@ feature_row:
   - image_path: /images/unsplash-gallery-image-3-th.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+---
+
+I'm a PhD student at Technical University of Denmark who excels at machine learning, especially deep learning.
+
+
